@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Sept 2015 – Sept 2016, National College of Ireland, Higher Diploma in Science in Data Analytics
+
+Learn to identify, analyse and interpret patterns in complex data using analytical, statistical and modelling techniques with R, Python and SQL.
+Projects:
+
+Final Project - Using Open Data to explore underlying relations of Ireland rental property market. Feature engineering, Exploratory Analysis, Boosted Decision Tree Regression and Ordinary Least Squares Linear regression are used. [GitHub]
+
+Programming for Big Data - Deployed instances on Amazon EC2, IBM BLUEMIX and used Pig to run MapReduce job. [GitHub]
+
+Machine Learning and Data Mining – Collaborating in a team of 4. Use Gradient Boosted Decision Tree and Exploratory Data Analysis on an anonymized data set to predict claim category helping insurer accelerate its claims process and provide a better service to its customers. 
+
+SQL - Developed a MySQL database for a Games rental shop with Entity Relationship Diagram and Normalization. [GitHub]
+
+
 As a digital marketing analyst, knowledge of how a website is built and struture comes in handy.
 
 To that end, I put together several websites with different technology stack. Here some of them
