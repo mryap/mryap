@@ -3,6 +3,11 @@
 Seeking digital transformation roles. Excited to work at the intersection of digital marketing, big data, UX(A/B testing) and 
 [Cloud Computing(BigQuery)](https://www.coursera.org/account/accomplishments/specialization/DXFGS4DLTRWU), website/app development and data analytics with R/Python
 
+Diverse experience in eCommerce, B2B start-ups, media firm and digital agencies in various digital role. Last 8-years' as digital web analyst translating data into value using Google Analytics and Google Tag Manager to improve website & online marketing by defining key KPIs that measure, track, optimize, and grow LTV efforts. 
+
+From my former manager: 
+> "He shows senses of innovation in exploring new way of doing things and applying them." and practice fundamental processes prior to and during the course of any project. 
+
 ### Sept 2015 – Sept 2016, National College of Ireland, Higher Diploma in Science in Data Analytics
 Learn to identify, analyse and interpret patterns in complex data using analytical, statistical and modelling techniques with R, Python and SQL.
 Projects:
