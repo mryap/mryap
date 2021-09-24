@@ -1,5 +1,8 @@
 # Hi there 👋
 
+Seeking digital transformation roles. Excited to work at the intersection of digital marketing, big data, UX(A/B testing) and 
+[Cloud Computing(BigQuery)](https://www.coursera.org/account/accomplishments/specialization/DXFGS4DLTRWU), website/app development and data analytics with R/Python
+
 ### Sept 2015 – Sept 2016, National College of Ireland, Higher Diploma in Science in Data Analytics
 Learn to identify, analyse and interpret patterns in complex data using analytical, statistical and modelling techniques with R, Python and SQL.
 Projects:
